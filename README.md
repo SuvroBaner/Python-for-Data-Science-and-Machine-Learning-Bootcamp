@@ -8,3 +8,4 @@ https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/lear
 Following are the topics posted-
 
 1) Python Crash Course
+2) NumPy (Numeric Python)
