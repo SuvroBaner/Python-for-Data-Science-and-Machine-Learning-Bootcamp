@@ -9,3 +9,4 @@ Following are the topics posted-
 
 1) Python Crash Course
 2) NumPy (Numeric Python)
+3) Pandas
