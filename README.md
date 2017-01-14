@@ -11,3 +11,4 @@ Following are the topics posted-
 2) NumPy (Numeric Python)
 3) Pandas
 4) Matplotlib
+5) Seaborn
