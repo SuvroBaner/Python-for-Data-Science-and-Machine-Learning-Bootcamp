@@ -12,3 +12,7 @@ Following are the topics posted-
 3) Pandas
 4) Matplotlib
 5) Seaborn
+6) Pandas Built-in Data Visualization
+7) Plotly and Cufflinks
+8) Geograhical Plotting
+9) Data - Capstone Project
