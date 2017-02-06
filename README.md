@@ -16,3 +16,4 @@ Following are the topics posted-
 7) Plotly and Cufflinks
 8) Geograhical Plotting
 9) Data - Capstone Project
+10) Linear Regression
