@@ -17,3 +17,9 @@ Following are the topics posted-
 8) Geograhical Plotting
 9) Data - Capstone Project
 10) Linear Regression
+11) Logistic Regression
+12) K-Nearest Neighbors
+13) Decision Trees and Random Forests
+14) Support Vector Machines
+15) K-Means Clustering
+16) Principal Component Analysis
